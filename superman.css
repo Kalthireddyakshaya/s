@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    padding: 50px;
+    background: orange;
+    background-size: cover;
+    background-image: url('u.jpg');
+  }
+  
+  h1,p {
+    color: white;
+    font-weight: bold;
+  }
+  img:hover{
+    border: 3px solid rgb(233, 227, 232);
+    cursor: pointer;
+    transform: skew(20%);
+    background-image: url('u.jpg');
+    border-radius: 50%;
+    
+  }
+  
+  
+  #pick{
+    
+    border: 2px solid white;
+    border-radius: 45%;
+   
+  }
+  
+  
+  #end {
+    margin-top: 20px;
+    color: white;
+    font-size: 18px;
+  }
+  
+  #restartButton {
+    margin-top: 20px;
+  }
+  button
+  {
+    text-align: center;
+  }
+  
+  
+  
